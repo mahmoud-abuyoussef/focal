@@ -1,9 +1,5 @@
 # Focal
 
-## [Live Demo](https://mahmoud-abuyoussef.github.io/Focal/)
-
----
-
 ## Tech Stack
 
 ### Languages
